@@ -1,0 +1,31 @@
+@import "../../styles/variaveis";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+.rodape {
+  position: fixed;
+  bottom: 0;
+  box-sizing: border-box;
+  width: 100vw;
+  padding: 18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  background-color: $azul-rodape;
+
+  &__social {
+    display: flex;
+    gap: 34px;
+
+    img {
+      width: 28px;
+    }
+  }
+
+  &__dev {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-display: swap;
+  }
+}
