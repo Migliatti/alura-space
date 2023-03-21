@@ -1,5 +1,10 @@
 # Projeto Alura-Space
 
-Projeto focado em react com arquivos estaticos
+Projeto feito na Alura com react
 
-> Para acessar o site só clicar no link: https://alura-space-lovat.vercel.app/
+Para mexer com projeto, abre o terminal, no pasta do projeto e digite:
+
+<ul>
+<li><code>npm install</code></li>
+<li><code>npm start</code></li>
+</ul>
