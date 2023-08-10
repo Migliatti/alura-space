@@ -1,10 +1,16 @@
-# Projeto Alura-Space
+#  Alura-space
+## Como Interagir com o Projeto
+Copie o link do projeto, no github, abra o terminal e siga as instruçoes:
 
-Projeto feito na Alura com react
+1. Clone o repositório:
+    `git clone "link"`
 
-Para mexer com projeto, abre o terminal, no pasta do projeto e digite:
+2. Navegue até o diretório do projeto:
+   `cd cep-request`
 
-<ul>
-<li><code>npm install</code></li>
-<li><code>npm start</code></li>
-</ul>
+3. Instale as dependências:
+   `npm install`
+
+Agora você está pronto para começar a explorar e trabalhar neste projeto. Divirta-se!
+## Site
+[Link do site](https://alura-space-lovat.vercel.app/)
